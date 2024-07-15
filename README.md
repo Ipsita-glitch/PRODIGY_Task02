@@ -65,4 +65,4 @@ Contact
 For any questions or feedback, please reach out to:
 
 Your Name: mondalipsita123@gmail.com
-GitHub: Ipsuta-glitch
+GitHub: Ipsita-glitch
