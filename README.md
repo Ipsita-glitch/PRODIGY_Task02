@@ -32,6 +32,7 @@ bash
 Copy code
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
 3. Install the required dependencies:
 
 bash
@@ -44,10 +45,12 @@ Usage
 Clean and normalize the data.
 Handle missing values, if any.
 Perform feature scaling.
+
 2. Run the K-means clustering algorithm:
 
 Determine the optimal number of clusters using the Elbow method.
 Apply K-means clustering to segment the customers.
+
 3. Analyze the clusters:
 
 Visualize the clusters using plots.
@@ -58,11 +61,15 @@ Results :-
 The results section includes:
 
 <1> Optimal number of clusters determined by the Elbow method.
+
 <2> Visualizations of the clusters (e.g., scatter plots, bar charts).
+
 <3> Description and interpretation of each customer segment.
 
 Contact
 For any questions or feedback, please reach out to:
 
 Your Name: mondalipsita123@gmail.com
+
 GitHub: Ipsita-glitch
+
